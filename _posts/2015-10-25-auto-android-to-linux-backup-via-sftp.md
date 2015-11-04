@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Notes from mounting Android folder over wifi and making backups to Linux machine automatic [2015-10-25]
+tags: snippet linux android scrippting automation home_automation wifi sync backup ssl ssh keys
 ---
 
 # Notes from mounting Android folder over wifi and making backups to Linux machine automatic [2015-10-25]
