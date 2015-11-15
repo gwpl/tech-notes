@@ -1,4 +1,4 @@
 baseurl:
 kramdown:
   input: GFM
-highlighter: pygments
+highlighter: redcarpet
