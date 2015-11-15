@@ -56,7 +56,7 @@ Combination that worked for me:
 
 ### Linux - Cryptographic Key-Pair generation:
 
-```bash
+```shell
 $ ssh-keygen -t rsa -b 8192 -f ~/.ssh/id_rsa_nopass
 # * empty password: as I want to use it for automatic passwordless authentication I leave password empty
 # * type RSA: as SSH Server on Android supports only RSA and DSA	
